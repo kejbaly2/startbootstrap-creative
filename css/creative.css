@@ -177,8 +177,8 @@ header {
     width: 100%;
     min-height: auto;
     text-align: center;
-    color: #fff;
-    background-image: url(../img/header.jpg);
+    color: rgba(255, 200, 200, .7);
+    background-image: url(../img/smokedJERKY.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -206,9 +206,9 @@ header .header-content .header-content-inner hr {
 
 header .header-content .header-content-inner p {
     margin-bottom: 50px;
-    font-size: 16px;
-    font-weight: 300;
-    color: rgba(255,255,255,.7);
+    font-size: 46px;
+    font-weight: 700;
+    color: rgba(220,255,200,.7);
 }
 
 @media(min-width:768px) {
